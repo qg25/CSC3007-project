@@ -1,12 +1,226 @@
 [
     {
-        "Year": 2017,
-        "Count": 81790,
+        "Brand": 2017,
+        "Count": 91922,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 10132,
+                "Share": 11.02,
+                "MakeUp": [
+                    {
+                        "Brand": "Toyota",
+                        "Share": 24.44,
+                        "Count": 2477
+                    },
+                    {
+                        "Brand": "Honda",
+                        "Share": 13.52,
+                        "Count": 1370
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 6.6,
+                        "Count": 669
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 8.72,
+                        "Count": 884
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 6.83,
+                        "Count": 693
+                    },
+                    {
+                        "Brand": "Nissan",
+                        "Share": 4.09,
+                        "Count": 415
+                    },
+                    {
+                        "Brand": "Kia",
+                        "Share": 4.73,
+                        "Count": 480
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 6.62,
+                        "Count": 671
+                    },
+                    {
+                        "Brand": "Mitsubishi",
+                        "Share": 1.77,
+                        "Count": 180
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 22.63,
+                        "Count": 2293,
+                        "MakeUp": [
+                            {
+                                "Brand": "Subaru",
+                                "Share": 3.68,
+                                "Count": 373
+                            },
+                            {
+                                "Brand": "Audi",
+                                "Share": 2.31,
+                                "Count": 235
+                            },
+                            {
+                                "Brand": "VW",
+                                "Share": 2.11,
+                                "Count": 214
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 2.46,
+                                "Count": 250
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 1.49,
+                                "Count": 151
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 0.75,
+                                "Count": 76
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.32,
+                                "Count": 33
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 1.45,
+                                "Count": 147
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 0.98,
+                                "Count": 100
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.42,
+                                "Count": 43
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 0.6,
+                                "Count": 61
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.38,
+                                "Count": 39
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 0.59,
+                                "Count": 60
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 1.49,
+                                "Count": 151
+                            },
+                            {
+                                "Brand": "Ford",
+                                "Share": 0.24,
+                                "Count": 25
+                            },
+                            {
+                                "Brand": "Infiniti",
+                                "Share": 0.2,
+                                "Count": 21
+                            },
+                            {
+                                "Brand": "Bollore",
+                                "Share": 1.62,
+                                "Count": 165
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 0.34,
+                                "Count": 35
+                            },
+                            {
+                                "Brand": "Perodua",
+                                "Share": 0.2,
+                                "Count": 21
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.13,
+                                "Count": 14
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.05,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "BYD",
+                                "Share": 0.53,
+                                "Count": 54
+                            },
+                            {
+                                "Brand": "Jeep",
+                                "Share": 0.04,
+                                "Count": 5
+                            },
+                            {
+                                "Brand": "Ferrari",
+                                "Share": 0.02,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Aston Martin",
+                                "Share": 0.01,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Alpina",
+                                "Share": 0.03,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.0,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Mclaren",
+                                "Share": 0.0,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 0.0,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Marcos",
+                                "Share": 0.0,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Mitsuoka",
+                                "Share": 0.0,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 7683,
-                "Share": 9.39,
+                "Share": 8.35,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -203,9 +417,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 7158,
-                "Share": 8.75,
+                "Share": 7.78,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -432,9 +646,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 5909,
-                "Share": 7.22,
+                "Share": 6.42,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -646,9 +860,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 7724,
-                "Share": 9.44,
+                "Share": 8.4,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -870,9 +1084,9 @@
                 ]
             },
             {
-                "Month": 5,
+                "Brand": 7,
                 "Count": 7533,
-                "Share": 9.21,
+                "Share": 8.19,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -1069,9 +1283,9 @@
                 ]
             },
             {
-                "Month": 6,
+                "Brand": 6,
                 "Count": 8250,
-                "Share": 10.08,
+                "Share": 8.97,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -1273,9 +1487,9 @@
                 ]
             },
             {
-                "Month": 7,
+                "Brand": 5,
                 "Count": 8418,
-                "Share": 10.29,
+                "Share": 9.15,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -1467,9 +1681,9 @@
                 ]
             },
             {
-                "Month": 8,
+                "Brand": 4,
                 "Count": 6800,
-                "Share": 8.31,
+                "Share": 7.39,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -1666,9 +1880,9 @@
                 ]
             },
             {
-                "Month": 9,
+                "Brand": 3,
                 "Count": 8617,
-                "Share": 10.53,
+                "Share": 9.37,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -1870,9 +2084,9 @@
                 ]
             },
             {
-                "Month": 10,
+                "Brand": 2,
                 "Count": 6159,
-                "Share": 7.53,
+                "Share": 6.7,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -2054,9 +2268,9 @@
                 ]
             },
             {
-                "Month": 11,
+                "Brand": 1,
                 "Count": 7539,
-                "Share": 9.21,
+                "Share": 8.2,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -2255,13 +2469,222 @@
         ]
     },
     {
-        "Year": 2018,
-        "Count": 73577,
+        "Brand": 2018,
+        "Count": 80281,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 6704,
+                "Share": 8.35,
+                "MakeUp": [
+                    {
+                        "Brand": "Honda",
+                        "Share": 15.97,
+                        "Count": 1071
+                    },
+                    {
+                        "Brand": "Toyota",
+                        "Share": 16.27,
+                        "Count": 1091
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 8.72,
+                        "Count": 585
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 2.68,
+                        "Count": 180
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 9.02,
+                        "Count": 605
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 9.17,
+                        "Count": 615
+                    },
+                    {
+                        "Brand": "Nissan",
+                        "Share": 6.95,
+                        "Count": 466
+                    },
+                    {
+                        "Brand": "Kia",
+                        "Share": 3.4,
+                        "Count": 228
+                    },
+                    {
+                        "Brand": "Mitsubishi",
+                        "Share": 1.95,
+                        "Count": 131
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 25.83,
+                        "Count": 1732,
+                        "MakeUp": [
+                            {
+                                "Brand": "Subaru",
+                                "Share": 4.83,
+                                "Count": 324
+                            },
+                            {
+                                "Brand": "Audi",
+                                "Share": 4.43,
+                                "Count": 297
+                            },
+                            {
+                                "Brand": "VW",
+                                "Share": 4.51,
+                                "Count": 303
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 1.78,
+                                "Count": 120
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 1.83,
+                                "Count": 123
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 0.73,
+                                "Count": 49
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 0.82,
+                                "Count": 55
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 1.16,
+                                "Count": 78
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 1.58,
+                                "Count": 106
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.4,
+                                "Count": 27
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 0.14,
+                                "Count": 10
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 0.2,
+                                "Count": 14
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.29,
+                                "Count": 20
+                            },
+                            {
+                                "Brand": "Infiniti",
+                                "Share": 0.26,
+                                "Count": 18
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 0.5,
+                                "Count": 34
+                            },
+                            {
+                                "Brand": "Bollore",
+                                "Share": 1.34,
+                                "Count": 90
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.25,
+                                "Count": 17
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.14,
+                                "Count": 10
+                            },
+                            {
+                                "Brand": "Ford",
+                                "Share": 0.08,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.08,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "Alfa Romeo",
+                                "Share": 0.04,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 0.05,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.07,
+                                "Count": 5
+                            },
+                            {
+                                "Brand": "Jeep",
+                                "Share": 0.04,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Ferrari",
+                                "Share": 0.02,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Rolls-Royce",
+                                "Share": 0.02,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Aston Martin",
+                                "Share": 0.04,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Mclaren",
+                                "Share": 0.01,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Maxus",
+                                "Share": 0.01,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Datsun",
+                                "Share": 0.01,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 6769,
-                "Share": 9.19,
+                "Share": 8.43,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -2463,9 +2886,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 6759,
-                "Share": 9.18,
+                "Share": 8.41,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -2677,9 +3100,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 6177,
-                "Share": 8.39,
+                "Share": 7.69,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -2886,9 +3309,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 5941,
-                "Share": 8.07,
+                "Share": 7.4,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -3105,9 +3528,9 @@
                 ]
             },
             {
-                "Month": 5,
+                "Brand": 7,
                 "Count": 5274,
-                "Share": 7.16,
+                "Share": 6.56,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -3329,9 +3752,9 @@
                 ]
             },
             {
-                "Month": 6,
+                "Brand": 6,
                 "Count": 10464,
-                "Share": 14.22,
+                "Share": 13.03,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -3548,9 +3971,9 @@
                 ]
             },
             {
-                "Month": 7,
+                "Brand": 5,
                 "Count": 7420,
-                "Share": 10.08,
+                "Share": 9.24,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -3737,9 +4160,9 @@
                 ]
             },
             {
-                "Month": 8,
+                "Brand": 4,
                 "Count": 6976,
-                "Share": 9.48,
+                "Share": 8.68,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -3946,9 +4369,9 @@
                 ]
             },
             {
-                "Month": 9,
+                "Brand": 3,
                 "Count": 7001,
-                "Share": 9.51,
+                "Share": 8.72,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -4145,9 +4568,9 @@
                 ]
             },
             {
-                "Month": 10,
+                "Brand": 2,
                 "Count": 5218,
-                "Share": 7.09,
+                "Share": 6.49,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -4349,9 +4772,9 @@
                 ]
             },
             {
-                "Month": 11,
+                "Brand": 1,
                 "Count": 5578,
-                "Share": 7.58,
+                "Share": 6.94,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -4555,13 +4978,227 @@
         ]
     },
     {
-        "Year": 2019,
-        "Count": 67633,
+        "Brand": 2019,
+        "Count": 72344,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 4711,
+                "Share": 6.51,
+                "MakeUp": [
+                    {
+                        "Brand": "Honda",
+                        "Share": 17.08,
+                        "Count": 805
+                    },
+                    {
+                        "Brand": "Toyota",
+                        "Share": 21.26,
+                        "Count": 1002
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 12.96,
+                        "Count": 611
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 4.26,
+                        "Count": 201
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 12.54,
+                        "Count": 591
+                    },
+                    {
+                        "Brand": "Kia",
+                        "Share": 3.33,
+                        "Count": 157
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 3.99,
+                        "Count": 188
+                    },
+                    {
+                        "Brand": "Mitsubishi",
+                        "Share": 2.03,
+                        "Count": 96
+                    },
+                    {
+                        "Brand": "Audi",
+                        "Share": 3.29,
+                        "Count": 155
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 19.21,
+                        "Count": 905,
+                        "MakeUp": [
+                            {
+                                "Brand": "Nissan",
+                                "Share": 3.69,
+                                "Count": 174
+                            },
+                            {
+                                "Brand": "VW",
+                                "Share": 2.12,
+                                "Count": 100
+                            },
+                            {
+                                "Brand": "Subaru",
+                                "Share": 1.88,
+                                "Count": 89
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 1.44,
+                                "Count": 68
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 1.33,
+                                "Count": 63
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 0.84,
+                                "Count": 40
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 1.33,
+                                "Count": 63
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 0.97,
+                                "Count": 46
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.8,
+                                "Count": 38
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 0.7,
+                                "Count": 33
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.55,
+                                "Count": 26
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 0.63,
+                                "Count": 30
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.72,
+                                "Count": 34
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 0.4,
+                                "Count": 19
+                            },
+                            {
+                                "Brand": "Infiniti",
+                                "Share": 0.23,
+                                "Count": 11
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 0.25,
+                                "Count": 12
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.21,
+                                "Count": 10
+                            },
+                            {
+                                "Brand": "Perodua",
+                                "Share": 0.12,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.16,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.08,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Alfa Romeo",
+                                "Share": 0.08,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Jeep",
+                                "Share": 0.16,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 0.1,
+                                "Count": 5
+                            },
+                            {
+                                "Brand": "Rolls-Royce",
+                                "Share": 0.04,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Aston Martin",
+                                "Share": 0.04,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Tesla",
+                                "Share": 0.06,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Alpine",
+                                "Share": 0.04,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Ford",
+                                "Share": 0.04,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Lotus",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "RUF",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Koenigsegg",
+                                "Share": 0.02,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 5075,
-                "Share": 7.5,
+                "Share": 7.01,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -4768,9 +5405,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 5024,
-                "Share": 7.42,
+                "Share": 6.94,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -4982,9 +5619,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 5577,
-                "Share": 8.24,
+                "Share": 7.7,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -5186,9 +5823,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 5099,
-                "Share": 7.53,
+                "Share": 7.04,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -5410,9 +6047,9 @@
                 ]
             },
             {
-                "Month": 5,
+                "Brand": 7,
                 "Count": 6990,
-                "Share": 10.33,
+                "Share": 9.66,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -5634,9 +6271,9 @@
                 ]
             },
             {
-                "Month": 6,
+                "Brand": 6,
                 "Count": 6158,
-                "Share": 9.1,
+                "Share": 8.51,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -5838,9 +6475,9 @@
                 ]
             },
             {
-                "Month": 7,
+                "Brand": 5,
                 "Count": 6308,
-                "Share": 9.32,
+                "Share": 8.71,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -6062,9 +6699,9 @@
                 ]
             },
             {
-                "Month": 8,
+                "Brand": 4,
                 "Count": 6896,
-                "Share": 10.19,
+                "Share": 9.53,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -6276,9 +6913,9 @@
                 ]
             },
             {
-                "Month": 9,
+                "Brand": 3,
                 "Count": 7239,
-                "Share": 10.7,
+                "Share": 10.0,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -6490,9 +7127,9 @@
                 ]
             },
             {
-                "Month": 10,
+                "Brand": 2,
                 "Count": 5010,
-                "Share": 7.4,
+                "Share": 6.92,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -6684,9 +7321,9 @@
                 ]
             },
             {
-                "Month": 11,
+                "Brand": 1,
                 "Count": 8257,
-                "Share": 12.2,
+                "Share": 11.41,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -6925,13 +7562,227 @@
         ]
     },
     {
-        "Year": 2020,
-        "Count": 40529,
+        "Brand": 2020,
+        "Count": 44465,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 3936,
+                "Share": 8.85,
+                "MakeUp": [
+                    {
+                        "Brand": "Toyota",
+                        "Share": 20.04,
+                        "Count": 789
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 16.08,
+                        "Count": 633
+                    },
+                    {
+                        "Brand": "Honda",
+                        "Share": 8.96,
+                        "Count": 353
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 15.19,
+                        "Count": 598
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 3.02,
+                        "Count": 119
+                    },
+                    {
+                        "Brand": "Audi",
+                        "Share": 7.82,
+                        "Count": 308
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 4.26,
+                        "Count": 168
+                    },
+                    {
+                        "Brand": "Kia",
+                        "Share": 2.41,
+                        "Count": 95
+                    },
+                    {
+                        "Brand": "Nissan",
+                        "Share": 1.16,
+                        "Count": 46
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 21.01,
+                        "Count": 827,
+                        "MakeUp": [
+                            {
+                                "Brand": "VW",
+                                "Share": 3.12,
+                                "Count": 123
+                            },
+                            {
+                                "Brand": "Mitsubishi",
+                                "Share": 1.75,
+                                "Count": 69
+                            },
+                            {
+                                "Brand": "Subaru",
+                                "Share": 1.42,
+                                "Count": 56
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 1.9,
+                                "Count": 75
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 1.47,
+                                "Count": 58
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 1.24,
+                                "Count": 49
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 1.04,
+                                "Count": 41
+                            },
+                            {
+                                "Brand": "M.G.",
+                                "Share": 0.81,
+                                "Count": 32
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 1.16,
+                                "Count": 46
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.73,
+                                "Count": 29
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 0.83,
+                                "Count": 33
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 1.04,
+                                "Count": 41
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 0.58,
+                                "Count": 23
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 0.3,
+                                "Count": 12
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 0.35,
+                                "Count": 14
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.71,
+                                "Count": 28
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.6,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Infiniti",
+                                "Share": 0.43,
+                                "Count": 17
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.27,
+                                "Count": 11
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.22,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "Perodua",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Rolls-Royce",
+                                "Share": 0.15,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "Jeep",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Ferrari",
+                                "Share": 0.17,
+                                "Count": 7
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Alfa Romeo",
+                                "Share": 0.07,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Aston Martin",
+                                "Share": 0.33,
+                                "Count": 13
+                            },
+                            {
+                                "Brand": "Mclaren",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Maxus",
+                                "Share": 0.05,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Lotus",
+                                "Share": 0.02,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Mitsuoka",
+                                "Share": 0.02,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 4715,
-                "Share": 11.63,
+                "Share": 10.6,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -7153,9 +8004,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 4750,
-                "Share": 11.72,
+                "Share": 10.68,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -7372,9 +8223,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 4566,
-                "Share": 11.26,
+                "Share": 10.26,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -7606,9 +8457,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 5180,
-                "Share": 12.78,
+                "Share": 11.64,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -7815,9 +8666,9 @@
                 ]
             },
             {
-                "Month": 5,
+                "Brand": 7,
                 "Count": 4825,
-                "Share": 11.9,
+                "Share": 10.85,
                 "MakeUp": [
                     {
                         "Brand": "Mercedes-Benz",
@@ -8029,9 +8880,9 @@
                 ]
             },
             {
-                "Month": 6,
+                "Brand": 6,
                 "Count": 1064,
-                "Share": 2.62,
+                "Share": 2.39,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -8208,9 +9059,9 @@
                 ]
             },
             {
-                "Month": 7,
+                "Brand": 5,
                 "Count": 48,
-                "Share": 0.11,
+                "Share": 0.1,
                 "MakeUp": [
                     {
                         "Brand": "Mercedes-Benz",
@@ -8292,9 +9143,9 @@
                 ]
             },
             {
-                "Month": 8,
+                "Brand": 4,
                 "Count": 682,
-                "Share": 1.68,
+                "Share": 1.53,
                 "MakeUp": [
                     {
                         "Brand": "Mercedes-Benz",
@@ -8476,9 +9327,9 @@
                 ]
             },
             {
-                "Month": 9,
+                "Brand": 3,
                 "Count": 5001,
-                "Share": 12.33,
+                "Share": 11.24,
                 "MakeUp": [
                     {
                         "Brand": "Honda",
@@ -8725,9 +9576,9 @@
                 ]
             },
             {
-                "Month": 10,
+                "Brand": 2,
                 "Count": 4669,
-                "Share": 11.52,
+                "Share": 10.5,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -8934,9 +9785,9 @@
                 ]
             },
             {
-                "Month": 11,
+                "Brand": 1,
                 "Count": 5029,
-                "Share": 12.4,
+                "Share": 11.31,
                 "MakeUp": [
                     {
                         "Brand": "Mercedes-Benz",
@@ -9150,13 +10001,252 @@
         ]
     },
     {
-        "Year": 2021,
-        "Count": 42540,
+        "Brand": 2021,
+        "Count": 45442,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 2902,
+                "Share": 6.38,
+                "MakeUp": [
+                    {
+                        "Brand": "Toyota",
+                        "Share": 23.91,
+                        "Count": 694
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 9.85,
+                        "Count": 286
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 10.06,
+                        "Count": 292
+                    },
+                    {
+                        "Brand": "Honda",
+                        "Share": 9.3,
+                        "Count": 270
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 6.71,
+                        "Count": 195
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 2.2,
+                        "Count": 64
+                    },
+                    {
+                        "Brand": "Audi",
+                        "Share": 6.2,
+                        "Count": 180
+                    },
+                    {
+                        "Brand": "Nissan",
+                        "Share": 2.86,
+                        "Count": 83
+                    },
+                    {
+                        "Brand": "Kia",
+                        "Share": 2.17,
+                        "Count": 63
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 26.7,
+                        "Count": 775,
+                        "MakeUp": [
+                            {
+                                "Brand": "Tesla",
+                                "Share": 4.44,
+                                "Count": 129
+                            },
+                            {
+                                "Brand": "VW",
+                                "Share": 1.27,
+                                "Count": 37
+                            },
+                            {
+                                "Brand": "Mitsubishi",
+                                "Share": 1.06,
+                                "Count": 31
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 3.51,
+                                "Count": 102
+                            },
+                            {
+                                "Brand": "M.G.",
+                                "Share": 0.48,
+                                "Count": 14
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 1.48,
+                                "Count": 43
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 0.86,
+                                "Count": 25
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 2.48,
+                                "Count": 72
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.82,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 1.55,
+                                "Count": 45
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 1.1,
+                                "Count": 32
+                            },
+                            {
+                                "Brand": "Subaru",
+                                "Share": 0.62,
+                                "Count": 18
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 0.79,
+                                "Count": 23
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.68,
+                                "Count": 20
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.24,
+                                "Count": 7
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 1.13,
+                                "Count": 33
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 0.13,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 0.96,
+                                "Count": 28
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.1,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.27,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Rolls-Royce",
+                                "Share": 0.2,
+                                "Count": 6
+                            },
+                            {
+                                "Brand": "BYD",
+                                "Share": 0.44,
+                                "Count": 13
+                            },
+                            {
+                                "Brand": "Ferrari",
+                                "Share": 0.27,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Jeep",
+                                "Share": 0.06,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.37,
+                                "Count": 11
+                            },
+                            {
+                                "Brand": "Alfa Romeo",
+                                "Share": 0.1,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Bollore",
+                                "Share": 0.51,
+                                "Count": 15
+                            },
+                            {
+                                "Brand": "Mclaren",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Perodua",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Aston Martin",
+                                "Share": 0.06,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Maxus",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Alpine",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Polestar",
+                                "Share": 0.31,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "Fiat",
+                                "Share": 0.06,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Ford",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Morgan",
+                                "Share": 0.03,
+                                "Count": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 2965,
-                "Share": 6.96,
+                "Share": 6.52,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -9383,9 +10473,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 2946,
-                "Share": 6.92,
+                "Share": 6.48,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -9602,9 +10692,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 3901,
-                "Share": 9.17,
+                "Share": 8.58,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -9826,9 +10916,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 3505,
-                "Share": 8.23,
+                "Share": 7.71,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -10040,9 +11130,9 @@
                 ]
             },
             {
-                "Month": 5,
+                "Brand": 7,
                 "Count": 3446,
-                "Share": 8.1,
+                "Share": 7.58,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -10264,9 +11354,9 @@
                 ]
             },
             {
-                "Month": 6,
+                "Brand": 6,
                 "Count": 4429,
-                "Share": 10.41,
+                "Share": 9.74,
                 "MakeUp": [
                     {
                         "Brand": "Mercedes-Benz",
@@ -10498,9 +11588,9 @@
                 ]
             },
             {
-                "Month": 7,
+                "Brand": 5,
                 "Count": 3766,
-                "Share": 8.85,
+                "Share": 8.28,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -10722,9 +11812,9 @@
                 ]
             },
             {
-                "Month": 8,
+                "Brand": 4,
                 "Count": 4050,
-                "Share": 9.52,
+                "Share": 8.91,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -10951,9 +12041,9 @@
                 ]
             },
             {
-                "Month": 9,
+                "Brand": 3,
                 "Count": 4600,
-                "Share": 10.81,
+                "Share": 10.12,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -11170,9 +12260,9 @@
                 ]
             },
             {
-                "Month": 10,
+                "Brand": 2,
                 "Count": 3648,
-                "Share": 8.57,
+                "Share": 8.02,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -11384,9 +12474,9 @@
                 ]
             },
             {
-                "Month": 11,
+                "Brand": 1,
                 "Count": 5284,
-                "Share": 12.42,
+                "Share": 11.62,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -11615,13 +12705,232 @@
         ]
     },
     {
-        "Year": 2022,
-        "Count": 10363,
+        "Brand": 2022,
+        "Count": 13310,
         "MakeUp": [
             {
-                "Month": 1,
+                "Brand": 12,
+                "Count": 2947,
+                "Share": 22.14,
+                "MakeUp": [
+                    {
+                        "Brand": "Toyota",
+                        "Share": 21.51,
+                        "Count": 634
+                    },
+                    {
+                        "Brand": "Mercedes-Benz",
+                        "Share": 19.4,
+                        "Count": 572
+                    },
+                    {
+                        "Brand": "BMW",
+                        "Share": 10.51,
+                        "Count": 310
+                    },
+                    {
+                        "Brand": "Honda",
+                        "Share": 10.17,
+                        "Count": 300
+                    },
+                    {
+                        "Brand": "Hyundai",
+                        "Share": 4.37,
+                        "Count": 129
+                    },
+                    {
+                        "Brand": "Mazda",
+                        "Share": 4.17,
+                        "Count": 123
+                    },
+                    {
+                        "Brand": "M.G.",
+                        "Share": 3.59,
+                        "Count": 106
+                    },
+                    {
+                        "Brand": "BYD",
+                        "Share": 2.85,
+                        "Count": 84
+                    },
+                    {
+                        "Brand": "Nissan",
+                        "Share": 2.85,
+                        "Count": 84
+                    },
+                    {
+                        "Brand": "Others",
+                        "Share": 20.52,
+                        "Count": 605,
+                        "MakeUp": [
+                            {
+                                "Brand": "Audi",
+                                "Share": 2.81,
+                                "Count": 83
+                            },
+                            {
+                                "Brand": "Kia",
+                                "Share": 2.54,
+                                "Count": 75
+                            },
+                            {
+                                "Brand": "Porsche",
+                                "Share": 1.93,
+                                "Count": 57
+                            },
+                            {
+                                "Brand": "VW",
+                                "Share": 1.56,
+                                "Count": 46
+                            },
+                            {
+                                "Brand": "Mitsubishi",
+                                "Share": 1.35,
+                                "Count": 40
+                            },
+                            {
+                                "Brand": "Volvo Cars",
+                                "Share": 0.98,
+                                "Count": 29
+                            },
+                            {
+                                "Brand": "MINI",
+                                "Share": 0.81,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Peugeot",
+                                "Share": 0.81,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Ssangyong",
+                                "Share": 0.81,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Subaru",
+                                "Share": 0.81,
+                                "Count": 24
+                            },
+                            {
+                                "Brand": "Skoda",
+                                "Share": 0.67,
+                                "Count": 20
+                            },
+                            {
+                                "Brand": "Citroen",
+                                "Share": 0.64,
+                                "Count": 19
+                            },
+                            {
+                                "Brand": "Opel",
+                                "Share": 0.57,
+                                "Count": 17
+                            },
+                            {
+                                "Brand": "Ferrari",
+                                "Share": 0.54,
+                                "Count": 16
+                            },
+                            {
+                                "Brand": "Jaguar",
+                                "Share": 0.4,
+                                "Count": 12
+                            },
+                            {
+                                "Brand": "Bentley",
+                                "Share": 0.37,
+                                "Count": 11
+                            },
+                            {
+                                "Brand": "Polestar",
+                                "Share": 0.33,
+                                "Count": 10
+                            },
+                            {
+                                "Brand": "Land Rover",
+                                "Share": 0.3,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "Rolls-Royce",
+                                "Share": 0.3,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "SEAT",
+                                "Share": 0.3,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "Tesla",
+                                "Share": 0.3,
+                                "Count": 9
+                            },
+                            {
+                                "Brand": "Maserati",
+                                "Share": 0.27,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Suzuki",
+                                "Share": 0.27,
+                                "Count": 8
+                            },
+                            {
+                                "Brand": "Lamborghini",
+                                "Share": 0.23,
+                                "Count": 7
+                            },
+                            {
+                                "Brand": "Renault",
+                                "Share": 0.13,
+                                "Count": 4
+                            },
+                            {
+                                "Brand": "Mclaren",
+                                "Share": 0.1,
+                                "Count": 3
+                            },
+                            {
+                                "Brand": "Alfa Romeo",
+                                "Share": 0.06,
+                                "Count": 2
+                            },
+                            {
+                                "Brand": "Chevrolet",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Mitsuoka",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Pagani",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Perodua",
+                                "Share": 0.03,
+                                "Count": 1
+                            },
+                            {
+                                "Brand": "Others",
+                                "Share": 0.06,
+                                "Count": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Brand": 11,
                 "Count": 2501,
-                "Share": 24.13,
+                "Share": 18.79,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -11858,9 +13167,9 @@
                 ]
             },
             {
-                "Month": 2,
+                "Brand": 10,
                 "Count": 2627,
-                "Share": 25.34,
+                "Share": 19.73,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -12087,9 +13396,9 @@
                 ]
             },
             {
-                "Month": 3,
+                "Brand": 9,
                 "Count": 2271,
-                "Share": 21.91,
+                "Share": 17.06,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
@@ -12326,9 +13635,9 @@
                 ]
             },
             {
-                "Month": 4,
+                "Brand": 8,
                 "Count": 2964,
-                "Share": 28.6,
+                "Share": 22.26,
                 "MakeUp": [
                     {
                         "Brand": "Toyota",
